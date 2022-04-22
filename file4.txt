@@ -8,7 +8,7 @@ class Main {
     
     System.out.println(first + " " + second);
 
-    // add two numbers
+    // add two numberss
     int sum = first + second;
     System.out.println("The sum is: " + sum);
   }
